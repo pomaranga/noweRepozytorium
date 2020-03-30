@@ -1,2 +1,3 @@
 zmiana pierwsza - nowa treść w pliku
 więcej nowej treści
+zmiana druga - więcej treści
