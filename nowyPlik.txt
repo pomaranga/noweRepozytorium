@@ -1,3 +1,4 @@
 zmiana pierwsza - nowa treść w pliku
 zmiana druga - treści
 zmiana trzecia - nowe treści i usunięcie oraz edycja części starych
+zmiana czwarta - ta online
